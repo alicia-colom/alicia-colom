@@ -1,23 +1,33 @@
+<img src="https://www.xmple.com/wallpaper/yellow-white-stripes-streaks-lines-2960x1440-c2-ffff00-ffffff-l2-95-95-a-315-f-1.svg" alt="top" width="15%"/><img src="https://www.xmple.com/wallpaper/yellow-white-stripes-streaks-lines-2960x1440-c2-ffff00-ffffff-l2-95-95-a-315-f-1.svg" alt="top" width="15%"/><img src="https://www.xmple.com/wallpaper/yellow-white-stripes-streaks-lines-2960x1440-c2-ffff00-ffffff-l2-95-95-a-315-f-1.svg" alt="top" width="15%"/><img src="https://www.xmple.com/wallpaper/yellow-white-stripes-streaks-lines-2960x1440-c2-ffff00-ffffff-l2-95-95-a-315-f-1.svg" alt="top" width="15%"/><img src="https://www.xmple.com/wallpaper/yellow-white-stripes-streaks-lines-2960x1440-c2-ffff00-ffffff-l2-95-95-a-315-f-1.svg" alt="top" width="15%"/><img src="https://www.xmple.com/wallpaper/yellow-white-stripes-streaks-lines-2960x1440-c2-ffff00-ffffff-l2-95-95-a-315-f-1.svg" alt="top" width="15%"/>
+
 # <img src="https://emojis.slackmojis.com/emojis/images/1471045884/964/woman.gif?1471045884" width="40"/> **Hi there! I'm** <img alt="A from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250592/1443/a.jpg?1481250592" width="30"/><img alt="L from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250733/1454/l.jpg?1481250733" width="30"/><img alt="I from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250618/1451/i.jpg?1481250618" width="30"/><img alt="C from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250615/1445/c.jpg?1481250615" width="30"/><img alt="I from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250618/1451/i.jpg?1481250618" width="30"/><img alt="A from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250592/1443/a.jpg?1481250592" width="30"/>
 
 ## *A newbie frontend developer from Seville* 
 
+
 ### About me:
 
-* 🌱 I’m currently learning **React**
-* 🤓 Ask me about **JavaScript, HTML5 and CSS3**
-* 🐥 I was born as a developer in **[ADALAB](https://github.com/Adalab) · #PromoKizzy**
-* 👷‍♀️ I’m currently working on **mossaico.com website**
-* 🖥️ All of my projects are available at **[my GitHub repositories](https://github.com/alicia-colom?tab=repositories)**
+![Color block](https://via.placeholder.com/5/F5DF4D/000000?text=+) 🌱 I’m currently learning **React**
 
-   <img align="center" src="https://images.myperfectcolor.com/repositories/images/colors/pantone-13-0647-tpg-illuminating-paint-color-match-2.jpg" alt="separator line" width="250" height="1"/>
+![Color block](https://via.placeholder.com/5/F5DF4D/000000?text=+) 🤓 Ask me about **JavaScript, HTML5 and CSS3**
+
+![Color block](https://via.placeholder.com/5/F5DF4D/000000?text=+) 🐥 I was born as a developer in **[ADALAB](https://github.com/Adalab) · #PromoKizzy**
+
+![Color block](https://via.placeholder.com/5/F5DF4D/000000?text=+) 👷‍♀️ I’m currently working on **mossaico.com website**
+
+![Color block](https://via.placeholder.com/5/F5DF4D/000000?text=+) 🖥️ All of my projects are available at **[my GitHub repositories](https://github.com/alicia-colom?tab=repositories)**
    
-* 🟣 *Pronouns:* she/her
-* ✨ *Fun fact:* **I ❤️ design in all its forms: architecture, product design, illustration...**
-* 🔍 *Know about my experiences in* **[my LinkedIn profile](https://www.linkedin.com/in/aliciacolomortega/)**
-* 📨 *How to reach me* **aliciacolom@gmail.com**
+   </br>
+   
+![Color block](https://via.placeholder.com/5/F5DF4D/000000?text=+) 🟣 *Pronouns:* she/her
 
-   <img align="center" src="https://images.myperfectcolor.com/repositories/images/colors/pantone-13-0647-tpg-illuminating-paint-color-match-2.jpg" alt="separator line" width="250" height="5"/>
+![Color block](https://via.placeholder.com/5/F5DF4D/000000?text=+) ✨ *Fun fact:* **I ❤️ design in all its forms: architecture, product design, illustration...**
+
+![Color block](https://via.placeholder.com/5/F5DF4D/000000?text=+) 🔍 *Know about my experiences in* **[my LinkedIn profile](https://www.linkedin.com/in/aliciacolomortega/)**
+
+![Color block](https://via.placeholder.com/5/F5DF4D/000000?text=+) 📨 *How to reach me* **aliciacolom@gmail.com**
+
+   <img src="https://via.placeholder.com/2/F5DF4D/000000?text=+" alt="separator line" width="90%" height="2"/>
    
 ### Languages and Tools:
 
@@ -37,7 +47,10 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="32"/> </a> &nbsp;
   <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="32"/> </a> 
 
-   <p align="center"> <img src="https://images.myperfectcolor.com/repositories/images/colors/pantone-13-0647-tpg-illuminating-paint-color-match-2.jpg" alt="separator line" width="250" height="5"/></p>
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=alicia-colom&show_icons=true&locale=en&layout=compact)
+
+
+  <img src="https://via.placeholder.com/2/F5DF4D/000000?text=+" alt="separator line" width="90%" height="2"/>
    
 ### Connect with me: 
 
@@ -50,9 +63,9 @@
   <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 </p>
 
-   <img align="center" src="https://images.myperfectcolor.com/repositories/images/colors/pantone-13-0647-tpg-illuminating-paint-color-match-2.jpg" alt="separator line" width="250" height="5"/>
+  <img src="https://via.placeholder.com/2/F5DF4D/000000?text=+" alt="separator line" width="90%" height="2"/>
    
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=alicia-colom&show_icons=true&locale=en&layout=compact)
+<img src="https://www.xmple.com/wallpaper/white-yellow-lines-streaks-stripes-1920x1080-c2-ffff00-ffffff-l2-50-100-a-120-f-1.svg" alt="top" width="15%"/><img src="https://www.xmple.com/wallpaper/white-yellow-lines-streaks-stripes-1920x1080-c2-ffff00-ffffff-l2-50-100-a-120-f-1.svg" alt="top" width="15%"/><img src="https://www.xmple.com/wallpaper/white-yellow-lines-streaks-stripes-1920x1080-c2-ffff00-ffffff-l2-50-100-a-120-f-1.svg" alt="top" width="15%"/><img src="https://www.xmple.com/wallpaper/white-yellow-lines-streaks-stripes-1920x1080-c2-ffff00-ffffff-l2-50-100-a-120-f-1.svg" alt="top" width="15%"/><img src="https://www.xmple.com/wallpaper/white-yellow-lines-streaks-stripes-1920x1080-c2-ffff00-ffffff-l2-50-100-a-120-f-1.svg" alt="top" width="15%"/><img src="https://www.xmple.com/wallpaper/white-yellow-lines-streaks-stripes-1920x1080-c2-ffff00-ffffff-l2-50-100-a-120-f-1.svg" alt="top" width="15%"/>
 
 <!--
 ![My github stats](https://github-readme-stats.vercel.app/api?username=alicia-colom&show_icons=true&layout=compact&theme=yeblu)
