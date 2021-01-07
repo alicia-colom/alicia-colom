@@ -28,7 +28,7 @@ const aliciacolom = {
 -->
 
 
-<h1>Hi there!<img src="https://emojis.slackmojis.com/emojis/images/1471045884/964/woman.gif?1471045884" width="40"/></h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1471045884/964/woman.gif?1471045884" width="40"/>Hi there!<img src="https://emojis.slackmojis.com/emojis/images/1471045883/958/wfh.gif?1471045883" width="35"/></h1>
 <h1>This is <img alt="A from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250592/1443/a.jpg?1481250592" width="35"/><img alt="L from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250733/1454/l.jpg?1481250733" width="35"/><img alt="I from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250618/1451/i.jpg?1481250618" width="35"/><img alt="C from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250615/1445/c.jpg?1481250615" width="35"/><img alt="I from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250618/1451/i.jpg?1481250618" width="35"/><img alt="A from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250592/1443/a.jpg?1481250592" width="35"/></h1>
 
 <h3><i>A newbie frontend developer from Seville</i></h3>
