@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1471045884/964/woman.gif?1471045884" width="40"/> **Hi there! This is** <img alt="A from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250592/1443/a.jpg?1481250592" width="30"/><img alt="L from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250733/1454/l.jpg?1481250733" width="30"/><img alt="I from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250618/1451/i.jpg?1481250618" width="30"/><img alt="C from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250615/1445/c.jpg?1481250615" width="30"/><img alt="I from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250618/1451/i.jpg?1481250618" width="30"/><img alt="A from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250592/1443/a.jpg?1481250592" width="30"/>
+# <img src="https://emojis.slackmojis.com/emojis/images/1471045884/964/woman.gif?1471045884" width="40"/> **Hi there! I'm** <img alt="A from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250592/1443/a.jpg?1481250592" width="30"/><img alt="L from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250733/1454/l.jpg?1481250733" width="30"/><img alt="I from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250618/1451/i.jpg?1481250618" width="30"/><img alt="C from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250615/1445/c.jpg?1481250615" width="30"/><img alt="I from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250618/1451/i.jpg?1481250618" width="30"/><img alt="A from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250592/1443/a.jpg?1481250592" width="30"/>
 
 ## *A newbie frontend developer from Seville* 
 
@@ -10,36 +10,35 @@
 * 👷‍♀️ I’m currently working on **mossaico.com website**
 * 🖥️ All of my projects are available at **[my GitHub repositories](https://github.com/alicia-colom?tab=repositories)**
 
-</br>
-
+   <img align="center" src="https://images.myperfectcolor.com/repositories/images/colors/pantone-13-0647-tpg-illuminating-paint-color-match-2.jpg" alt="separator line" width="250" height="1"/>
+   
 * 🟣 *Pronouns:* she/her
 * ✨ *Fun fact:* **I ❤️ design in all its forms: architecture, product design, illustration...**
 * 🔍 *Know about my experiences in* **[my LinkedIn profile](https://www.linkedin.com/in/aliciacolomortega/)**
 * 📨 *How to reach me* **aliciacolom@gmail.com**
 
----
-
+   <img align="center" src="https://images.myperfectcolor.com/repositories/images/colors/pantone-13-0647-tpg-illuminating-paint-color-match-2.jpg" alt="separator line" width="250" height="5"/>
+   
 ### Languages and Tools:
-
 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
     <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>&nbsp;
+    <img src="https://pngimage.net/wp-content/uploads/2018/06/road-line-png-3.png" alt="separator line" height="40"/>&nbsp;
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
-  
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"/> </a> 
-  <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40"/> </a> 
+    <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a>&nbsp;
+   <img src="https://pngimage.net/wp-content/uploads/2018/06/road-line-png-3.png" alt="separator line" height="40"/>&nbsp;
+    <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="32"/> </a> &nbsp;
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="32"/> </a> &nbsp;
+  <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="32"/> </a> 
 
----
-
+   <p align="center"> <img src="https://images.myperfectcolor.com/repositories/images/colors/pantone-13-0647-tpg-illuminating-paint-color-match-2.jpg" alt="separator line" width="250" height="5"/></p>
+   
 ### Connect with me: 
 
 <p align="left">
@@ -51,8 +50,8 @@
   <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 </p>
 
----
-
+   <img align="center" src="https://images.myperfectcolor.com/repositories/images/colors/pantone-13-0647-tpg-illuminating-paint-color-match-2.jpg" alt="separator line" width="250" height="5"/>
+   
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=alicia-colom&show_icons=true&locale=en&layout=compact)
 
 <!--
