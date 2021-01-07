@@ -1,38 +1,7 @@
-<!--
-**alicia-colom/alicia-colom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/T9uDcSZiPElXQopwWr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ecardmint-happy-smile-T9uDcSZiPElXQopwWr">via GIPHY</a></p>
-
-A little more about me...
-```
-const aliciacolom = {
-  code: ["Javascript", "HTML", "CSS"],
-  tools: ["React"],
-  preprocessor: ["SASS"],
-  techCommunities: {
-     adalaber: "PromoKizzy"
-  },
-}
-```
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alicia-colom&label=Profile%20views&color=eeff00&style=flat" alt="alicia-colom" /> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicia-colom&show_icons=true&locale=en&layout=compact" alt="alicia-colom" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alicia-colom&show_icons=true&locale=en" alt="alicia-colom" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alicia-colom&" alt="alicia-colom" /></p>
-
-<p align="left"> <a href="https://twitter.com/aliciacolom" target="blank"><img src="https://img.shields.io/twitter/follow/aliciacolom?logo=twitter&style=for-the-badge" alt="aliciacolom" /></a> </p>
-
-<a href="https://twitter.com/aliciacolom">
-  <img align="left" alt="Alicia Colom | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
--->
-
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1471045884/964/woman.gif?1471045884" width="40"/>Hi there!<img src="https://emojis.slackmojis.com/emojis/images/1471045883/958/wfh.gif?1471045883" width="35"/></h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1471045884/964/woman.gif?1471045884" width="40"/>Hi there!</h1>
 <h1>This is <img alt="A from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250592/1443/a.jpg?1481250592" width="35"/><img alt="L from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250733/1454/l.jpg?1481250733" width="35"/><img alt="I from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250618/1451/i.jpg?1481250618" width="35"/><img alt="C from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250615/1445/c.jpg?1481250615" width="35"/><img alt="I from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250618/1451/i.jpg?1481250618" width="35"/><img alt="A from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250592/1443/a.jpg?1481250592" width="35"/></h1>
 
 <h3><i>A newbie frontend developer from Seville</i></h3>
-
 
 <h3 align="left">About me:</h3>
 
@@ -45,12 +14,13 @@ const aliciacolom = {
 </br>
 
 * 🟣 *Pronouns:* she/her
-* ✨ *Fun fact:* **I love design in all its forms: architecture, product design, illustration...**
+* ✨ *Fun fact:* **I ❤️ design in all its forms: architecture, product design, illustration...**
 * 🔍 *Know about my experiences in* **[my LinkedIn profile](https://www.linkedin.com/in/aliciacolomortega/)**
 * 📨 *How to reach me* **aliciacolom@gmail.com**
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -68,18 +38,22 @@ const aliciacolom = {
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
 
+---
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me: 
+
 <p align="left">
-<a href="https://twitter.com/aliciacolom" target="blank"><img align="center" src="https://emojis.slackmojis.com/emojis/images/1450733056/231/twitter.png?1450733056" alt="Alicia's Twitter" height="30" width="40" /></a>&nbsp;
-<a href="https://linkedin.com/in/aliciacolomortega" target="blank"><img align="center" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" alt="Alicia's LinkedIn" height="40" width="40" /></a>&nbsp;
-<a href="https://instagram.com/aliciacolom" target="blank"><img align="center" src="https://emojis.slackmojis.com/emojis/images/1467306728/632/instagram.png?1467306728" alt="Alicia's Instagram" height="40" width="40" /></a>&nbsp;
-  <a href="mailto:aliciacolom@gmail.com" target="blank"><img align="center" src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" alt="Alicia's Gmail" height="40" width="40" /></a>&nbsp;
-  <a href="https://media.giphy.com/media/QBGfW8HqzXzYDojCqo/giphy.gif" target="blank"><img align="center" src="https://emojis.slackmojis.com/emojis/images/1471045846/820/fireworks.gif?1471045846" alt="Thank you" height="40" width="40" /></a>
-
+  <a href="https://twitter.com/aliciacolom" target="_blank"><img alt="Alicia's Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
+  <a href="https://linkedin.com/in/aliciacolomortega" target="_blank"><img alt="Alicia's LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+    <a href="https://github.com/alicia-colom" target="_blank"><img alt="Alicia's Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;
+  <a href="https://instagram.com/aliciacolom" target="_blank"><img alt="Alicia's Instagram" src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+  <a href="mailto:aliciacolom@gmail.com" target="_blank"><img alt="Alicia's Gmail" src="https://img.shields.io/badge/gmail-%23db4a39.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 </p>
+
+---
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=alicia-colom&show_icons=true&locale=en&layout=compact&theme=yeblu)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=alicia-colom&show_icons=true&theme=yeblu)
-![My contributions](https://github-readme-streak-stats.herokuapp.com/?user=alicia-colom&show_icons=true&theme=yeblu)
+![My github stats](https://github-readme-stats.vercel.app/api?username=alicia-colom&show_icons=true&layout=compact&theme=yeblu)
+![My contributions](https://github-readme-streak-stats.herokuapp.com/?user=alicia-colom&show_icons=true&layout=compact&theme=yeblu)
