@@ -1,8 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1471045884/964/woman.gif?1471045884" width="40"/>Hi there! This is <img alt="A from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250592/1443/a.jpg?1481250592" width="35"/><img alt="L from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250733/1454/l.jpg?1481250733" width="35"/><img alt="I from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250618/1451/i.jpg?1481250618" width="35"/><img alt="C from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250615/1445/c.jpg?1481250615" width="35"/><img alt="I from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250618/1451/i.jpg?1481250618" width="35"/><img alt="A from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250592/1443/a.jpg?1481250592" width="35"/></h1>
+# <img src="https://emojis.slackmojis.com/emojis/images/1471045884/964/woman.gif?1471045884" width="40"/> **Hi there! This is** <img alt="A from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250592/1443/a.jpg?1481250592" width="30"/><img alt="L from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250733/1454/l.jpg?1481250733" width="30"/><img alt="I from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250618/1451/i.jpg?1481250618" width="30"/><img alt="C from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250615/1445/c.jpg?1481250615" width="30"/><img alt="I from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250618/1451/i.jpg?1481250618" width="30"/><img alt="A from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250592/1443/a.jpg?1481250592" width="30"/>
 
-<h3><i>A newbie frontend developer from Seville</i></h3>
+## *A newbie frontend developer from Seville* 
 
-<h3 align="left">About me:</h3>
+### About me:
 
 * 🌱 I’m currently learning **React**
 * 🤓 Ask me about **JavaScript, HTML5 and CSS3**
@@ -20,6 +20,7 @@
 ---
 
 ### Languages and Tools:
+
 <p align="left"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -33,9 +34,9 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
     <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
   
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40"/> </a> 
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"/> </a> 
+  <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40"/> </a> 
 
 ---
 
