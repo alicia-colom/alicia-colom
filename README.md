@@ -10,31 +10,31 @@
 
 ### About me:
 
->🌱 I’m currently learning **React**
->
->🤓 Ask me about **JavaScript, HTML5 and CSS3**
->
->🐥 I was born as a developer in **[ADALAB](https://github.com/Adalab) · #PromoKizzy**
->
->👷‍♀️ I’m currently working on **mossaico.com website**
->
->🖥️ All of my projects are available at **[my GitHub repositories](https://github.com/alicia-colom?tab=repositories)**
+🌱 I’m currently learning **React**
+
+🤓 Ask me about **JavaScript, HTML5 and CSS3**
+
+🐥 I was born as a developer in **[ADALAB](https://github.com/Adalab) · #PromoKizzy**
+
+👷‍♀️ I’m currently working on **mossaico.com website**
+
+🖥️ All of my projects are available at **[my GitHub repositories](https://github.com/alicia-colom?tab=repositories)**
    
    </br>
    
->🟣 *Pronouns:* she/her
->
->✨ *Fun fact:* **I ❤️ design in all its forms: architecture, product design, illustration...**
->
->🔍 *Know about my experiences in* **[my LinkedIn profile](https://www.linkedin.com/in/aliciacolomortega/)**
->
->📨 *How to reach me* **aliciacolom@gmail.com**
+🟣 *Pronouns:* she/her
+
+✨ *Fun fact:* **I ❤️ design in all its forms: architecture, product design, illustration...**
+
+🔍 *Know about my experiences in* **[my LinkedIn profile](https://www.linkedin.com/in/aliciacolomortega/)**
+
+📨 *How to reach me* **aliciacolom@gmail.com**
 
    <img src="https://via.placeholder.com/2/F5DF4D/000000?text=+" alt="separator line" width="84%" height="2"/>
    
 ### Languages and Tools:
 
->   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -49,22 +49,21 @@
     <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="32"/> </a> &nbsp;
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="32"/> </a> &nbsp;
   <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="32"/> </a> 
->
->![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=alicia-colom&show_icons=true&locale=en&layout=compact)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=alicia-colom&show_icons=true&locale=en&layout=compact)
 
 
   <img src="https://via.placeholder.com/2/F5DF4D/000000?text=+" alt="separator line" width="84%" height="2"/>
    
 ### Connect with me: 
 
->  <a href="https://twitter.com/aliciacolom" target="_blank"><img alt="Alicia's Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
+  <a href="https://twitter.com/aliciacolom" target="_blank"><img alt="Alicia's Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/aliciacolomortega" target="_blank"><img alt="Alicia's LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
     <a href="https://github.com/alicia-colom" target="_blank"><img alt="Alicia's Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;
   <a href="https://instagram.com/aliciacolom" target="_blank"><img alt="Alicia's Instagram" src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
   <a href="mailto:aliciacolom@gmail.com" target="_blank"><img alt="Alicia's Gmail" src="https://img.shields.io/badge/gmail-%23db4a39.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://media4.giphy.com/media/QBGfW8HqzXzYDojCqo/giphy.gif" target="_blank"><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px" /></a>
 
-  <img src="https://via.placeholder.com/2/F5DF4D/000000?text=+" alt="separator line" width="84%" height="2"/>
    
 <img src="https://lh3.googleusercontent.com/Yuig_3eBlpzwUKWLsnjtHHTanwb82BQNVw-USIH59qnP3xQ-ku5rbRbxavciYYtG31jihtaqo16E8sQIT6NCZQ5sNGvdx-4hKWThleNMQ0lE5fLZqawwQA4oEah8gf0rUTq8TTwAq7xn6HpDfn4lIY5k2R1ZZR8mYRYcOVWjIOvOA77pbEut_ATQE1Nn7YyMvvzwkCFnpJpyK-k0NoJaZ59IHVcBnkpjie50q3M2FLuZyjl2qCJAXZh_NBJJyN70sB8R9BkR1tefnOpSnb86tGfZ5vd2hFN2MAJvUFLySLdjBKyAanE7NjW3VNLiUSumzgWI4NeTv7yu0EI1-MiCJa6ykB_wl_xda2qJsvEdh_9e21VSciYLs-nMyEFrQGKbR8fYsGgHtU_w2R2LWhj1ydPY-yDF_vD3haI6r-ARC53iYBE6wN8IAL6z1g6ptyyq04qGqHBJBBSb9lwbFx0WL-SiNKND4vozE-JFlBf9qaAqr6Ra8Ohb0YSLhGzt6o7H2BcrMvZMo_aj18MgS42X5s_nOi8X5CtljQ0fqujT2tSX2AptvO_-jSiaI98UxysUuAnlubQAcYRyTzOKxurU-IfrzPWHrgoqNNnEBkdHGQYfmkprM8ppl47tOVqW0bJbeIsfGIDnVF81LQu3mJKm71q6gzAdHEs66DUSWmYR4DA3HlTfRXyCwfRNl32Ppg=w1334-h750-no?authuser=0" alt="top" width="12%"/><img src="https://lh3.googleusercontent.com/Yuig_3eBlpzwUKWLsnjtHHTanwb82BQNVw-USIH59qnP3xQ-ku5rbRbxavciYYtG31jihtaqo16E8sQIT6NCZQ5sNGvdx-4hKWThleNMQ0lE5fLZqawwQA4oEah8gf0rUTq8TTwAq7xn6HpDfn4lIY5k2R1ZZR8mYRYcOVWjIOvOA77pbEut_ATQE1Nn7YyMvvzwkCFnpJpyK-k0NoJaZ59IHVcBnkpjie50q3M2FLuZyjl2qCJAXZh_NBJJyN70sB8R9BkR1tefnOpSnb86tGfZ5vd2hFN2MAJvUFLySLdjBKyAanE7NjW3VNLiUSumzgWI4NeTv7yu0EI1-MiCJa6ykB_wl_xda2qJsvEdh_9e21VSciYLs-nMyEFrQGKbR8fYsGgHtU_w2R2LWhj1ydPY-yDF_vD3haI6r-ARC53iYBE6wN8IAL6z1g6ptyyq04qGqHBJBBSb9lwbFx0WL-SiNKND4vozE-JFlBf9qaAqr6Ra8Ohb0YSLhGzt6o7H2BcrMvZMo_aj18MgS42X5s_nOi8X5CtljQ0fqujT2tSX2AptvO_-jSiaI98UxysUuAnlubQAcYRyTzOKxurU-IfrzPWHrgoqNNnEBkdHGQYfmkprM8ppl47tOVqW0bJbeIsfGIDnVF81LQu3mJKm71q6gzAdHEs66DUSWmYR4DA3HlTfRXyCwfRNl32Ppg=w1334-h750-no?authuser=0" alt="top" width="12%"/><img src="https://lh3.googleusercontent.com/Yuig_3eBlpzwUKWLsnjtHHTanwb82BQNVw-USIH59qnP3xQ-ku5rbRbxavciYYtG31jihtaqo16E8sQIT6NCZQ5sNGvdx-4hKWThleNMQ0lE5fLZqawwQA4oEah8gf0rUTq8TTwAq7xn6HpDfn4lIY5k2R1ZZR8mYRYcOVWjIOvOA77pbEut_ATQE1Nn7YyMvvzwkCFnpJpyK-k0NoJaZ59IHVcBnkpjie50q3M2FLuZyjl2qCJAXZh_NBJJyN70sB8R9BkR1tefnOpSnb86tGfZ5vd2hFN2MAJvUFLySLdjBKyAanE7NjW3VNLiUSumzgWI4NeTv7yu0EI1-MiCJa6ykB_wl_xda2qJsvEdh_9e21VSciYLs-nMyEFrQGKbR8fYsGgHtU_w2R2LWhj1ydPY-yDF_vD3haI6r-ARC53iYBE6wN8IAL6z1g6ptyyq04qGqHBJBBSb9lwbFx0WL-SiNKND4vozE-JFlBf9qaAqr6Ra8Ohb0YSLhGzt6o7H2BcrMvZMo_aj18MgS42X5s_nOi8X5CtljQ0fqujT2tSX2AptvO_-jSiaI98UxysUuAnlubQAcYRyTzOKxurU-IfrzPWHrgoqNNnEBkdHGQYfmkprM8ppl47tOVqW0bJbeIsfGIDnVF81LQu3mJKm71q6gzAdHEs66DUSWmYR4DA3HlTfRXyCwfRNl32Ppg=w1334-h750-no?authuser=0" alt="top" width="12%"/><img src="https://lh3.googleusercontent.com/Yuig_3eBlpzwUKWLsnjtHHTanwb82BQNVw-USIH59qnP3xQ-ku5rbRbxavciYYtG31jihtaqo16E8sQIT6NCZQ5sNGvdx-4hKWThleNMQ0lE5fLZqawwQA4oEah8gf0rUTq8TTwAq7xn6HpDfn4lIY5k2R1ZZR8mYRYcOVWjIOvOA77pbEut_ATQE1Nn7YyMvvzwkCFnpJpyK-k0NoJaZ59IHVcBnkpjie50q3M2FLuZyjl2qCJAXZh_NBJJyN70sB8R9BkR1tefnOpSnb86tGfZ5vd2hFN2MAJvUFLySLdjBKyAanE7NjW3VNLiUSumzgWI4NeTv7yu0EI1-MiCJa6ykB_wl_xda2qJsvEdh_9e21VSciYLs-nMyEFrQGKbR8fYsGgHtU_w2R2LWhj1ydPY-yDF_vD3haI6r-ARC53iYBE6wN8IAL6z1g6ptyyq04qGqHBJBBSb9lwbFx0WL-SiNKND4vozE-JFlBf9qaAqr6Ra8Ohb0YSLhGzt6o7H2BcrMvZMo_aj18MgS42X5s_nOi8X5CtljQ0fqujT2tSX2AptvO_-jSiaI98UxysUuAnlubQAcYRyTzOKxurU-IfrzPWHrgoqNNnEBkdHGQYfmkprM8ppl47tOVqW0bJbeIsfGIDnVF81LQu3mJKm71q6gzAdHEs66DUSWmYR4DA3HlTfRXyCwfRNl32Ppg=w1334-h750-no?authuser=0" alt="top" width="12%"/><img src="https://lh3.googleusercontent.com/Yuig_3eBlpzwUKWLsnjtHHTanwb82BQNVw-USIH59qnP3xQ-ku5rbRbxavciYYtG31jihtaqo16E8sQIT6NCZQ5sNGvdx-4hKWThleNMQ0lE5fLZqawwQA4oEah8gf0rUTq8TTwAq7xn6HpDfn4lIY5k2R1ZZR8mYRYcOVWjIOvOA77pbEut_ATQE1Nn7YyMvvzwkCFnpJpyK-k0NoJaZ59IHVcBnkpjie50q3M2FLuZyjl2qCJAXZh_NBJJyN70sB8R9BkR1tefnOpSnb86tGfZ5vd2hFN2MAJvUFLySLdjBKyAanE7NjW3VNLiUSumzgWI4NeTv7yu0EI1-MiCJa6ykB_wl_xda2qJsvEdh_9e21VSciYLs-nMyEFrQGKbR8fYsGgHtU_w2R2LWhj1ydPY-yDF_vD3haI6r-ARC53iYBE6wN8IAL6z1g6ptyyq04qGqHBJBBSb9lwbFx0WL-SiNKND4vozE-JFlBf9qaAqr6Ra8Ohb0YSLhGzt6o7H2BcrMvZMo_aj18MgS42X5s_nOi8X5CtljQ0fqujT2tSX2AptvO_-jSiaI98UxysUuAnlubQAcYRyTzOKxurU-IfrzPWHrgoqNNnEBkdHGQYfmkprM8ppl47tOVqW0bJbeIsfGIDnVF81LQu3mJKm71q6gzAdHEs66DUSWmYR4DA3HlTfRXyCwfRNl32Ppg=w1334-h750-no?authuser=0" alt="top" width="12%"/><img src="https://lh3.googleusercontent.com/Yuig_3eBlpzwUKWLsnjtHHTanwb82BQNVw-USIH59qnP3xQ-ku5rbRbxavciYYtG31jihtaqo16E8sQIT6NCZQ5sNGvdx-4hKWThleNMQ0lE5fLZqawwQA4oEah8gf0rUTq8TTwAq7xn6HpDfn4lIY5k2R1ZZR8mYRYcOVWjIOvOA77pbEut_ATQE1Nn7YyMvvzwkCFnpJpyK-k0NoJaZ59IHVcBnkpjie50q3M2FLuZyjl2qCJAXZh_NBJJyN70sB8R9BkR1tefnOpSnb86tGfZ5vd2hFN2MAJvUFLySLdjBKyAanE7NjW3VNLiUSumzgWI4NeTv7yu0EI1-MiCJa6ykB_wl_xda2qJsvEdh_9e21VSciYLs-nMyEFrQGKbR8fYsGgHtU_w2R2LWhj1ydPY-yDF_vD3haI6r-ARC53iYBE6wN8IAL6z1g6ptyyq04qGqHBJBBSb9lwbFx0WL-SiNKND4vozE-JFlBf9qaAqr6Ra8Ohb0YSLhGzt6o7H2BcrMvZMo_aj18MgS42X5s_nOi8X5CtljQ0fqujT2tSX2AptvO_-jSiaI98UxysUuAnlubQAcYRyTzOKxurU-IfrzPWHrgoqNNnEBkdHGQYfmkprM8ppl47tOVqW0bJbeIsfGIDnVF81LQu3mJKm71q6gzAdHEs66DUSWmYR4DA3HlTfRXyCwfRNl32Ppg=w1334-h750-no?authuser=0" alt="top" width="12%"/><img src="https://lh3.googleusercontent.com/Yuig_3eBlpzwUKWLsnjtHHTanwb82BQNVw-USIH59qnP3xQ-ku5rbRbxavciYYtG31jihtaqo16E8sQIT6NCZQ5sNGvdx-4hKWThleNMQ0lE5fLZqawwQA4oEah8gf0rUTq8TTwAq7xn6HpDfn4lIY5k2R1ZZR8mYRYcOVWjIOvOA77pbEut_ATQE1Nn7YyMvvzwkCFnpJpyK-k0NoJaZ59IHVcBnkpjie50q3M2FLuZyjl2qCJAXZh_NBJJyN70sB8R9BkR1tefnOpSnb86tGfZ5vd2hFN2MAJvUFLySLdjBKyAanE7NjW3VNLiUSumzgWI4NeTv7yu0EI1-MiCJa6ykB_wl_xda2qJsvEdh_9e21VSciYLs-nMyEFrQGKbR8fYsGgHtU_w2R2LWhj1ydPY-yDF_vD3haI6r-ARC53iYBE6wN8IAL6z1g6ptyyq04qGqHBJBBSb9lwbFx0WL-SiNKND4vozE-JFlBf9qaAqr6Ra8Ohb0YSLhGzt6o7H2BcrMvZMo_aj18MgS42X5s_nOi8X5CtljQ0fqujT2tSX2AptvO_-jSiaI98UxysUuAnlubQAcYRyTzOKxurU-IfrzPWHrgoqNNnEBkdHGQYfmkprM8ppl47tOVqW0bJbeIsfGIDnVF81LQu3mJKm71q6gzAdHEs66DUSWmYR4DA3HlTfRXyCwfRNl32Ppg=w1334-h750-no?authuser=0" alt="top" width="12%"/>
 
