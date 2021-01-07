@@ -49,8 +49,8 @@
     <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="32"/> </a> &nbsp;
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="32"/> </a> &nbsp;
   <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="32"/> </a> 
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=alicia-colom&show_icons=true&locale=en&layout=compact)
+>
+>![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=alicia-colom&show_icons=true&locale=en&layout=compact)
 
 
   <img src="https://via.placeholder.com/2/F5DF4D/000000?text=+" alt="separator line" width="84%" height="2"/>
@@ -62,7 +62,7 @@
     <a href="https://github.com/alicia-colom" target="_blank"><img alt="Alicia's Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;
   <a href="https://instagram.com/aliciacolom" target="_blank"><img alt="Alicia's Instagram" src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
   <a href="mailto:aliciacolom@gmail.com" target="_blank"><img alt="Alicia's Gmail" src="https://img.shields.io/badge/gmail-%23db4a39.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://media.giphy.com/media/QBGfW8HqzXzYDojCqo/giphy.gif" target="_blank"><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px" /></a>
+  <a href="https://media4.giphy.com/media/QBGfW8HqzXzYDojCqo/giphy.gif" target="_blank"><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px" /></a>
 
   <img src="https://via.placeholder.com/2/F5DF4D/000000?text=+" alt="separator line" width="84%" height="2"/>
    
