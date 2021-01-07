@@ -36,4 +36,4 @@ const aliciacolom = {
 ```
 -->
 
-[![Alicia's github stats](https://github-readme-stats.vercel.app/api?username=alicia-colom)](https://github.com/alicia-colom/github-readme-stats)
+![My github stats](https://github-readme-stats.vercel.app/api?username=alicia-colom&show_icons=true&theme=dracula)
