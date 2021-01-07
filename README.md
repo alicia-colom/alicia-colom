@@ -28,7 +28,7 @@
 
 🔍 *Know about my experiences in* **[my LinkedIn profile](https://www.linkedin.com/in/aliciacolomortega/)**
 
-📨 *How to reach me* **aliciacolom@gmail.com**
+📨 *How to reach me:* **aliciacolom@gmail.com**
 
    <img src="https://via.placeholder.com/2/F5DF4D/000000?text=+" alt="separator line" width="84%" height="2"/>
    
