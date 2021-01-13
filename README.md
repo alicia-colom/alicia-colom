@@ -1,9 +1,6 @@
 <img src="https://static.wixstatic.com/media/e6f652_41d692d22638492f8827f946e393f2ab~mv2.gif" width="12%"/>
 
-<h2>My name is </h2>
-
-<img alt="A from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250592/1443/a.jpg?1481250592" width="32"/><img alt="L from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250733/1454/l.jpg?1481250733" width="32"/><img alt="I from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250618/1451/i.jpg?1481250618" width="32"/><img alt="C from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250615/1445/c.jpg?1481250615" width="32"/><img alt="I from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250618/1451/i.jpg?1481250618" width="32"/><img alt="A from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250592/1443/a.jpg?1481250592" width="32"/></h1>
-
+# My name is <img alt="A from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250592/1443/a.jpg?1481250592" width="32"/><img alt="L from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250733/1454/l.jpg?1481250733" width="32"/><img alt="I from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250618/1451/i.jpg?1481250618" width="32"/><img alt="C from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250615/1445/c.jpg?1481250615" width="32"/><img alt="I from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250618/1451/i.jpg?1481250618" width="32"/><img alt="A from Alicia" src="https://emojis.slackmojis.com/emojis/images/1481250592/1443/a.jpg?1481250592" width="32"/></h1>
 
 
 ## 🟨 *A newbie frontend developer from Seville* 🟨
