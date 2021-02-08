@@ -2,8 +2,7 @@
 
 # My name is Alicia
 
-
-## *A newbie frontend developer from Seville* 🟨
+## *A newbie frontend developer from Seville* 
 
 
 ### About me:
