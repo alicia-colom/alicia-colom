@@ -44,17 +44,13 @@
   <img src="https://pngimage.net/wp-content/uploads/2018/06/road-line-png-3.png" alt="separator line" height="40"/>&nbsp;
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
       <a href="https://expressjs.com/es/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a> 
-      
   <img src="https://pngimage.net/wp-content/uploads/2018/06/road-line-png-3.png" alt="separator line" height="40"/>&nbsp;
- 
  <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> &nbsp;
   <a href="https://github.com/about" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> &nbsp;
     <a href="https://www.npmjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a> &nbsp;
   <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> &nbsp;
     <a href="https://webpack.js.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></a>&nbsp;
- 
   <img src="https://pngimage.net/wp-content/uploads/2018/06/road-line-png-3.png" alt="separator line" height="40"/>&nbsp;
-  
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="32"/> </a> &nbsp;
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1051px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="32"/> </a> &nbsp;
     <a href="https://www.adobe.com/es/products/dreamweaver.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Adobe_Dreamweaver_CC_icon.svg/1200px-Adobe_Dreamweaver_CC_icon.svg.png" alt="dreamweaver" width="32"/> </a> &nbsp;
