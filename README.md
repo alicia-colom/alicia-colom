@@ -44,8 +44,9 @@
   <img src="https://pngimage.net/wp-content/uploads/2018/06/road-line-png-3.png" alt="separator line" height="40"/>&nbsp;
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
       <a href="https://expressjs.com/es/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a> 
-  <img src="https://pngimage.net/wp-content/uploads/2018/06/road-line-png-3.png" alt="separator line" height="40"/>&nbsp;
- <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> &nbsp;
+
+
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> &nbsp;
   <a href="https://github.com/about" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> &nbsp;
     <a href="https://www.npmjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a> &nbsp;
   <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> &nbsp;
