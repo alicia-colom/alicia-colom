@@ -66,7 +66,7 @@
 
   <a href="https://twitter.com/aliciacolom" target="_blank"><img alt="Alicia's Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/aliciacolomortega" target="_blank"><img alt="Alicia's LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-    <a href="https://"github.com/alicia-colom" target="_blank"><img alt="Alicia's Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;
+    <a href="https://github.com/alicia-colom/" target="_blank"><img alt="Alicia's Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;
   <a href="https://instagram.com/aliciacolom" target="_blank"><img alt="Alicia's Instagram" src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
   <a href="mailto:aliciacolom@gmail.com" target="_blank"><img alt="Alicia's Gmail" src="https://img.shields.io/badge/gmail-%23db4a39.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://i.giphy.com/media/QBGfW8HqzXzYDojCqo/source.mp4" target="_blank"><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px" /></a>
