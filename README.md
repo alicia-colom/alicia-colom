@@ -7,13 +7,13 @@
 
 ### About me:
 
-🌱 I’m currently learning **React**
+🌱 I’m currently learning **TypeScript**
 
-🤓 Ask me about **JavaScript, HTML5 and CSS3**
+🤓 Ask me about **JavaScript & React, HTML5 & CSS3**
 
 🐥 I was born as a developer in **[ADALAB](https://github.com/Adalab) · #PromoKizzy**
 
-👷‍♀️ I’m currently working on **[Mossaico website](http://mossaico.com/)**
+👷‍♀️ I’m currently working on **[Mossaico website](http://mossaico.com/)** and **[DiverLibros website](https://www.instagram.com/diver_libros/)**
 
 🖥️ All of my projects are available at **[my GitHub repositories](https://github.com/alicia-colom?tab=repositories)**
    
@@ -21,7 +21,7 @@
    
 🟣 *Pronouns:* she/her
 
-✨ *Fun fact:* **I ❤️ dogs & design** in all its forms: architecture, product design, illustration...
+✨ *Fun fact:* **I ❤️ dogs & design**
 
 🔍 *Know about my experiences in* **[my LinkedIn profile](https://www.linkedin.com/in/aliciacolomortega/)**
 
