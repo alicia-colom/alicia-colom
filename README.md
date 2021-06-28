@@ -2,7 +2,7 @@
 
 # My name is Alicia
 
-## *A newbie frontend developer from Seville* 
+## *A frontend developer from Seville* 
 
 
 ### About me:
@@ -13,9 +13,14 @@
 
 🐥 I was born as a developer in **[ADALAB](https://github.com/Adalab) · #PromoKizzy**
 
-👷‍♀️ I’m currently working on **[Mossaico website](http://mossaico.com/)** and **[DiverLibros website](https://www.instagram.com/diver_libros/)**
+👷‍♀️ I’m currently working in **Technological Innovation Group** of **Virgen del Rocío University Hospital**
 
-🖥️ All of my projects are available at **[my GitHub repositories](https://github.com/alicia-colom?tab=repositories)**
+👉 I'm on these side projects: 
+   - **[DeveloPets community](https://twitter.com/developets_)**
+   - **[Mossaico website](http://mossaico.com/)**
+   - **[DiverLibros website](https://www.instagram.com/diver_libros/)**
+
+🖥️ My projects are available at **[my GitHub repositories](https://github.com/alicia-colom?tab=repositories)**
    
    </br>
    
