@@ -13,12 +13,12 @@
 
 🐥 I was born as a developer in **[ADALAB](https://github.com/Adalab) · #PromoKizzy**
 
-👷‍♀️ I’m currently working in **Technological Innovation Group** of **Virgen del Rocío University Hospital**
+👷‍♀️ I’m currently working in **Chessable Limited** as **frontend dev**
 
 👉 I'm on these side projects: 
    - **[DeveloPets community](https://twitter.com/developets_)**
    - **[Mossaico website](http://mossaico.com/)**
-   - **[DiverLibros website](https://www.instagram.com/diver_libros/)**
+   - **[DiverLibros website](https://www.diverlibros.es/)**
 
 🖥️ My projects are available at **[my GitHub repositories](https://github.com/alicia-colom?tab=repositories)**
    
