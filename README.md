@@ -7,14 +7,14 @@
 
 ### About me:
 
-🌱 I’m currently working in **Chessable Limited** as **frontend dev**
+🌱 I’m currently working in **[Chessable Limited](https://www.chessable.com/es/about-us)** as **frontend dev**
 
 🤓 Ask me about **JavaScript & React, HTML5 & CSS3**
 
 🐥 I was born as a developer in **[ADALAB](https://github.com/Adalab) · #PromoKizzy**
 
 👉 I'm on these side projects: 
-   - **[DeveloPets community](https://twitter.com/developets_)**
+   - **[DeveloPets](https://developets.wordpress.com/)**
    - **[Mossaico website](http://mossaico.com/)**
    - **[DiverLibros website](https://www.diverlibros.es/)**
 
