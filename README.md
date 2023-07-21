@@ -8,9 +8,10 @@
 ### About me:
 
 🌱 I’m currently working in **[Napptilus Tech Lab](https://napptilus.com/)** as **frontend dev** for **[Securitas Direct](https://careers.verisure.com/securitasdirect/)**
+
 (Previously in **[Chessable Limited](https://www.chessable.com/es/about-us)**)
 
-🤓 Ask me about **JavaScript & React, HTML5 & CSS3**
+🤓 Ask me about **React & JavaScript, HTML5 & CSS3**
 
 🐥 I was born as a developer in **[ADALAB](https://github.com/Adalab) · #PromoKizzy**
 
