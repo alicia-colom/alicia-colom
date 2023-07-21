@@ -11,7 +11,7 @@
 
 (Previously in **[Chessable Limited](https://www.chessable.com/es/about-us)**)
 
-🤓 Ask me about **React & JavaScript, HTML5 & CSS3**
+🤓 Ask me about **React & JavaScript, GraphQL, HTML & CSS**
 
 🐥 I was born as a developer in **[ADALAB](https://github.com/Adalab) · #PromoKizzy**
 
