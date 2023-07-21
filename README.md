@@ -15,10 +15,10 @@
 
 🐥 I was born as a developer in **[ADALAB](https://github.com/Adalab) · #PromoKizzy**
 
-👉 I'm on these side projects: 
+👉 These are some of my side projects: 
+   - **[DiverLibros website](https://www.diverlibros.es/)**
    - **[DeveloPets](https://developets.wordpress.com/)**
    - **[Mossaico website](http://mossaico.com/)**
-   - **[DiverLibros website](https://www.diverlibros.es/)**
 
 🖥️ My projects are available at **[my GitHub repositories](https://github.com/alicia-colom?tab=repositories)**
    
