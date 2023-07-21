@@ -39,11 +39,13 @@
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
     <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> &nbsp;
-  <img src="https://pngimage.net/wp-content/uploads/2018/06/road-line-png-3.png" alt="separator line" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BSicon_STR_yellow.svg/1200px-BSicon_STR_yellow.svg.png" alt="separator line" height="40"/>&nbsp;
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> &nbsp;
-  <img src="https://pngimage.net/wp-content/uploads/2018/06/road-line-png-3.png" alt="separator line" height="40"/>&nbsp;
+   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
+   <a href="https://redux.js.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="react" width="40" height="40"/> </a> 
+   <a href="https://graphql.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="react" width="40" height="40"/> </a> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BSicon_STR_yellow.svg/1200px-BSicon_STR_yellow.svg.png" alt="separator line" height="40"/>&nbsp;
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
       <a href="https://expressjs.com/es/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a> 
 
@@ -53,10 +55,11 @@
     <a href="https://www.npmjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a> 
   <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> 
     <a href="https://webpack.js.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="37" height="37"/></a>&nbsp;
-  <img src="https://pngimage.net/wp-content/uploads/2018/06/road-line-png-3.png" alt="separator line" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BSicon_STR_yellow.svg/1200px-BSicon_STR_yellow.svg.png" alt="separator line" height="40"/>&nbsp;
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="32"/> </a> &nbsp;
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1051px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="32"/> </a> &nbsp;
     <a href="https://www.adobe.com/es/products/dreamweaver.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Adobe_Dreamweaver_CC_icon.svg/1200px-Adobe_Dreamweaver_CC_icon.svg.png" alt="dreamweaver" width="32"/> </a> &nbsp;
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="sketch" width="32"/> </a>
   <a href="https://www.sketch.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" alt="sketch" width="32"/> </a>
   <a href="https://wordpress.com/es/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="35" height="35"/> </a>
 
