@@ -7,7 +7,8 @@
 
 ### About me:
 
-🌱 I’m currently working in **[Chessable Limited](https://www.chessable.com/es/about-us)** as **frontend dev**
+🌱 I’m currently working in **[Napptilus Tech Lab](https://napptilus.com/)** as **frontend dev** for **[Securitas Direct](https://careers.verisure.com/securitasdirect/)**
+(Previously in **[Chessable Limited](https://www.chessable.com/es/about-us)**)
 
 🤓 Ask me about **JavaScript & React, HTML5 & CSS3**
 
